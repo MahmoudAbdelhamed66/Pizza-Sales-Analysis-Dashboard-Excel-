@@ -54,7 +54,8 @@ Before modeling, the data was **validated** to confirm it was clean and consiste
 
 `Table1` is loaded into the Excel Data Model, so every pivot, slicer and the timeline share one source and support distinct counts. All pivots live on the `Pivot Table` sheet.
 
-<img width="1053" height="387" alt="Pivot Table" src="https://github.com/user-attachments/assets/cda1cc18-d1b0-4e4d-be37-6a4813449682" />
+<img width="1226" height="363" alt="Pivot Table" src="https://github.com/user-attachments/assets/0340b7d0-12bb-4baf-84bb-ff26ac0faee3" />
+
 
 
 | Pivot | Location | Rows | Values | Used by |
@@ -102,7 +103,8 @@ Before modeling, the data was **validated** to confirm it was clean and consiste
 
 The dashboard sheet is built entirely from the pivots above. Every KPI is a `GETPIVOTDATA` formula and every chart is a PivotChart.
 
-<img width="1311" height="422" alt="Pizza Sales Dashboard" src="https://github.com/user-attachments/assets/19005fd3-705f-4a73-bc46-12b7075a76ef" />
+<img width="1312" height="422" alt="Pizza Sales Dashboard" src="https://github.com/user-attachments/assets/26bd2220-d8b0-4f98-9399-81b735b361cd" />
+
 
 ### Layout
 
