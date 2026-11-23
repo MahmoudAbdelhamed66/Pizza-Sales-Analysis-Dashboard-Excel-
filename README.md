@@ -54,7 +54,8 @@ Before modeling, the data was **validated** to confirm it was clean and consiste
 
 `Table1` is loaded into the Excel Data Model, so every pivot, slicer and the timeline share one source and support distinct counts. All pivots live on the `Pivot Table` sheet.
 
-<img width="1053" height="387" alt="Pivot Table" src="https://github.com/user-attachments/assets/cda1cc18-d1b0-4e4d-be37-6a4813449682" />
+<img width="1226" height="363" alt="Pivot Table" src="https://github.com/user-attachments/assets/81eb4ecb-715b-4514-86b2-ed5245f16399" />
+
 
 
 | Pivot | Location | Rows | Values | Used by |
