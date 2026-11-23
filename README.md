@@ -102,7 +102,8 @@ Before modeling, the data was **validated** to confirm it was clean and consiste
 
 The dashboard sheet is built entirely from the pivots above. Every KPI is a `GETPIVOTDATA` formula and every chart is a PivotChart.
 
-<img width="1311" height="422" alt="Pizza Sales Dashboard" src="https://github.com/user-attachments/assets/19005fd3-705f-4a73-bc46-12b7075a76ef" />
+<img width="1312" height="422" alt="Pizza Sales Dashboard" src="https://github.com/user-attachments/assets/f082eba8-85c5-469f-bd90-7b077447959a" />
+
 
 ### Layout
 
